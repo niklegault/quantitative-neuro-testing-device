@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="wearapp" external.linked.project.path="$MODULE_DIR$/wearapp" external.root.project.path="$MODULE_DIR$/wearapp" external.system.id="GRADLE" external.system.module.group="ca.carleton.reWatch" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/wearapp">
+      <excludeFolder url="file://$MODULE_DIR$/wearapp/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/wearapp/build" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 36.0, extension level 17 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/quantitative-neuro-testing-device.iml" filepath="$PROJECT_DIR$/.idea/quantitative-neuro-testing-device.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wearapp.iml" filepath="$PROJECT_DIR$/wearapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wearapp.main.iml" filepath="$PROJECT_DIR$/.idea/modules/wearapp.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wearapp.test.iml" filepath="$PROJECT_DIR$/.idea/modules/wearapp.test.iml" />
+    </modules>
+  </component>
+</project>
